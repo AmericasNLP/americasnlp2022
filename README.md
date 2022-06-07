@@ -18,7 +18,7 @@ a single sentence or utterance. The tsv file is structured as follows:
 |-------|--------------------------------------------------------------------------------------------------------------|
  |wav| The corresponding audio filename.                                                                            |
 |source_processed| A processed version of the audio transcription.                                                              |
-|source_raw| The original raw transcript. We ask you to use this data for training and evaluation, and to ignore the previous column. |
+|source_raw| The original raw transcript. We ask that you use this data for training and evaluation, and to ignore the previous column. |
 |target_raw| The translation of the transcription into either Spanish or Portuguese.                                      |
 
 
