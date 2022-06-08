@@ -1,5 +1,14 @@
 # AmericasNLP 2022
 
+## Languages
+|Code| Language | Translation Pair | 
+|-|-|-|
+|bzd|Bribri|Spanish|
+|gn|Guaraní|Spanish|
+|gvc|Kotiria|Portuguese|
+|tav|Wa'ikhana|Portuguese|
+|quy|Quechua|Spanish|
+
 ## Data
 
 ### Downloading
