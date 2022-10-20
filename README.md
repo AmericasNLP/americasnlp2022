@@ -11,8 +11,8 @@ The official submission leaderboards can be found at the following links:
 - [ASR Track 1](https://codalab.lisn.upsaclay.fr/competitions/6995)
 - [ASR Track 2](https://codalab.lisn.upsaclay.fr/competitions/7690)
 
-- [MT Track 1](https://codalab.lisn.upsaclay.fr/competitions/7691)
-- [MT Track 2](https://codalab.lisn.upsaclay.fr/competitions/7692)
+- [MT Track 1](https://codalab.lisn.upsaclay.fr/competitions/8030)
+- [MT Track 2](https://codalab.lisn.upsaclay.fr/competitions/8031)
 
 - [Speech-to-text Translation Track 1](https://codalab.lisn.upsaclay.fr/competitions/7693)
 - [Speech-to-text Translation Track 2](https://codalab.lisn.upsaclay.fr/competitions/7694)
